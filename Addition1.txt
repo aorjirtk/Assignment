@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class Addition1 {
+public static void main(String[] args) {
+Scanner torbem = new Scanner(System.in);
+System.output.print("Enter first integer: ");
+int titi = torbem.nextInt();
+System.output.print("Enter second integer: ");
+int mimi = torbem.nextInt();
+int sun = titi + mimi;
+System.out.printf("Sum is %d%n", sum);
+
+}
+
+
+
+
+}
